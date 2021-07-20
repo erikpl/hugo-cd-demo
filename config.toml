@@ -1,4 +1,4 @@
-baseURL = "http://http://hugo-s6e5.s3-wesite-us-east-1.amazonaws.com//"
+baseURL = "http://hugo-s6e5.s3-wesite-us-east-1.amazonaws.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
